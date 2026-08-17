@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 283758779+andresftelo@users.noreply.github.com
+	name = Andres Tello
